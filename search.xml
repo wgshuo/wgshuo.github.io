@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Hexo部署出现错误：Spawn failed解决方法</title>
+      <link href="/2025/02/01/hexo%E9%83%A8%E7%BD%B2%E5%87%BA%E7%8E%B0%E9%94%99%E8%AF%AFSpawn%20failed%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/"/>
+      <url>/2025/02/01/hexo%E9%83%A8%E7%BD%B2%E5%87%BA%E7%8E%B0%E9%94%99%E8%AF%AFSpawn%20failed%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<h3 id="错误如下："><a href="#错误如下：" class="headerlink" title="错误如下："></a>错误如下：</h3><p><img src="https://pub-696fe86c66344c6cbbf36f42b5b84c33.r2.dev/baocuo.png"></p><h3 id="解决方案："><a href="#解决方案：" class="headerlink" title="解决方案："></a>解决方案：</h3><blockquote><p>删除blog文件目录下的<code>.deploy_git</code>文件夹<br> 终端命令窗口:<br> <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo cl; hexo g; hexo d</span><br></pre></td></tr></table></figure><br> 完成部署(查看是否成功)</p></blockquote><hr><p><img src="https://img.131213.xyz/api/cfile/AgACAgUAAx0Eflp52gACZEBnnghk8zXOLQZTPB4DJg5pNoOTdgACKsMxG_6J8FSJtTrw4h-o2wEAAwIAA3cAAzYE" alt="wallhaven-dplg8m.jpg"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>IObit Uninstaller PRO 14卸载软件工具</title>
       <link href="/2025/02/01/IObit%20Uninstaller%20PRO%2014%E5%8D%B8%E8%BD%BD%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
       <url>/2025/02/01/IObit%20Uninstaller%20PRO%2014%E5%8D%B8%E8%BD%BD%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/</url>
