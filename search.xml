@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>IDM下载神器 终极指南</title>
+      <link href="/2025/02/08/IDM%E4%B8%8B%E8%BD%BD%E7%A5%9E%E5%A5%87%E7%BB%88%E6%9E%81%E6%8C%87%E5%8D%97/"/>
+      <url>/2025/02/08/IDM%E4%B8%8B%E8%BD%BD%E7%A5%9E%E5%A5%87%E7%BB%88%E6%9E%81%E6%8C%87%E5%8D%97/</url>
+      
+        <content type="html"><![CDATA[<h1 id="IDM-下载神器-无限试用终极指南"><a href="#IDM-下载神器-无限试用终极指南" class="headerlink" title="IDM 下载神器 无限试用终极指南"></a>IDM 下载神器 无限试用终极指南</h1><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><blockquote><p>Internet Download Manager （IDM） 是一种下载加速器，下载引擎使用独特的算法以最快的方式接收 Internet 数据。由于其创新的动态文件分段技术，IDM 将始终加速下载。 与其他下载管理器和加速器不同，IDM 在下载过程中对下载的文件进行动态分段，并且它重用可用连接，以实现最佳的加速性能。</p></blockquote><h2 id="1-安装IDM"><a href="#1-安装IDM" class="headerlink" title="1.安装IDM"></a>1.安装IDM</h2><p>安装<a href="https://www.internetdownloadmanager.com/"><strong>Install Internet Download （IDM）</strong></a></p><blockquote><p>语言设置：打开idm后点依次点击  “view”——“language”——“简体中文”</p></blockquote><p>IDM 无缝集成到 Google Chrome、FireFox、Microsoft Edge及其他流行的浏览器中。需要始终在浏览器中安装并启用 IDM 扩展，以接管从浏览器下载的命令。</p><blockquote><h4 id="安装浏览器扩展"><a href="#安装浏览器扩展" class="headerlink" title="安装浏览器扩展:"></a>安装浏览器扩展:</h4><p>安装IDM扩展 适用于 <a href="https://chrome.google.com/webstore/detail/IDM-Integration-Module/ngpampappnmepgilojfohadhhmbhlaek">Google Chrome</a><br>安装IDM扩展 适用于 <a href="https://microsoftedge.microsoft.com/addons/detail/idm-integration-module/llbjbkhnmlidjebalopleeepgdfgcpec">Microsoft Edge</a><br>安装IDM扩展 适用于 <a href="https://www.internetdownloadmanager.com/support/installffextfrommozillasite.html">Mozilla Firefox</a></p></blockquote><h2 id="2-无限测试脚本"><a href="#2-无限测试脚本" class="headerlink" title="2.无限测试脚本"></a>2.无限测试脚本</h2><p>通过Github官网搜索<a href="https://github.com/lstprjct/IDM-Activation-Script">“IDM Activation Script”</a><br>滚动网页找到如下图标出的代码：</p><blockquote><p><img src="https://pub-696fe86c66344c6cbbf36f42b5b84c33.r2.dev/idm02_22-58-07.png"><br>     即以下代码：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">iex(irm is.gd/idm_reset)</span><br></pre></td></tr></table></figure></blockquote><p>然后打开 <strong>“Windows PowerShell”</strong> (鼠标右键单击左下角<code>Windows</code>图标——点击<code>Windows PowerShell（I)</code> ）并粘贴，如下图所示：<br>     <img src="https://pub-696fe86c66344c6cbbf36f42b5b84c33.r2.dev/idm03-40-24.png"><br>弹出窗口时选“2”<br>等待运行完毕。如下图所示：<br><img src="https://pub-696fe86c66344c6cbbf36f42b5b84c33.r2.dev/idm1001.png"><br>此时关闭窗口即可。</p><hr><p><img src="https://img.131213.xyz/api/cfile/AgACAgUAAx0Eflp52gACZ_9nqDQJXvw2uAd925TVG6IXuWFKxgACg8sxG5pgQVUSvg-ak85lGgEAAwIAA3cAAzYE" alt="wallhaven-q6w3ml.jpg"></p><div class="video-container">[up主专用，视频内嵌代码贴在这]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 下载 </tag>
+            
+            <tag> idm </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>零成本搭建个人博客：Hexo + GitHub + Cloudflare</title>
       <link href="/2025/02/01/%E9%9B%B6%E6%88%90%E6%9C%AC%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%9AHexo-GitHub-Cloudflare/"/>
       <url>/2025/02/01/%E9%9B%B6%E6%88%90%E6%9C%AC%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%9AHexo-GitHub-Cloudflare/</url>
